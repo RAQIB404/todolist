@@ -85,6 +85,7 @@ h1{
 
  .remove-btn{
    margin-top: 35px;
+   margin-left: -50px;
    color: #fff;
    text-transform: uppercase;
    text-decoration: none;
